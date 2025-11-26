@@ -1,12 +1,12 @@
 
-                                Overview
+                                ##Overview
 
 This project focuses on early detection of Chronic Kidney Disease (CKD) using machine learning techniques.
 The model analyzes patient health indicators such as blood pressure, albumin levels, hemoglobin, diabetes history, and kidney function metrics to classify whether a patient is likely to have CKD.
 
 The goal is to help healthcare professionals perform early diagnosis and reduce treatment delays.
 
-                              Dataset Description
+                              ##Dataset Description
 
 The CKD dataset typically includes:
 
