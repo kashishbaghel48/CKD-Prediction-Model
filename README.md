@@ -30,7 +30,7 @@ Applied scaling to numerical features
 
 Split dataset into training & testing
 
-Balanced dataset (if required)
+Balanced dataset 
 
                                Machine Learning Models Used
 
